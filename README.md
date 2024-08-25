@@ -11,13 +11,17 @@
 
 <h3>Programming Languages :</h3>
 
-[![Programming languages](https://skillicons.dev/icons?i=rust,cpp,bash,python,php,js)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=rust,cpp,bash,python,lua,nix,php,js)](https://skillicons.dev)
 
 <h3>Frameworks & Technologies :</h3>
 
-[![Frameworks & technologies](https://skillicons.dev/icons?i=tauri,svelte,angular,react)](https://skillicons.dev)
+[![Frameworks & technologies](https://skillicons.dev/icons?i=tauri,svelte,angular,react,vite)](https://skillicons.dev)
 
-<h3>DevOps and Tools :</h3>
+<h3>Favorite Tools :</h3>
+
+[![WebDev](https://skillicons.dev/icons?i=github,docker,vim,neovim,git,obsidian)](https://skillicons.dev)
+
+<h3>DevOps Tools :</h3>
 
 [![WebDev](https://skillicons.dev/icons?i=github,docker,kubernetes,jenkins)](https://skillicons.dev)
 
