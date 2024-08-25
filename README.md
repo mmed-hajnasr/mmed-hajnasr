@@ -19,7 +19,7 @@
 
 <h3>Favorite Tools :</h3>
 
-[![WebDev](https://skillicons.dev/icons?i=github,docker,vim,neovim,git,obsidian)](https://skillicons.dev)
+[![WebDev](https://skillicons.dev/icons?i=vim,neovim,git,obsidian)](https://skillicons.dev)
 
 <h3>DevOps Tools :</h3>
 
