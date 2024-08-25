@@ -11,7 +11,7 @@
 
 <h3>Programming Languages :</h3>
 
-[![Programming languages](https://skillicons.dev/icons?i=rust,cpp,bash,python,lua,nix,php,js)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=rust,cpp,bash,python,lua,nix,latex,php,js)](https://skillicons.dev)
 
 <h3>Frameworks & Technologies :</h3>
 
