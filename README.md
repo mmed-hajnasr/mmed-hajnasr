@@ -11,6 +11,8 @@
 
 <h3>Programming Languages :</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmed-hajnasr&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Programming languages](https://skillicons.dev/icons?i=rust,cpp,bash,python,lua,nix,latex,php,js)](https://skillicons.dev)
 
 <h3>Frameworks & Technologies :</h3>
